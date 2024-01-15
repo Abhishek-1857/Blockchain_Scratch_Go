@@ -1,0 +1,15 @@
+=============== Dec 14, 2023 (IST) ===============
+18:26:04.125448 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:26:04.129070 db@open opening
+18:26:04.129390 version@stat F·[] S·0B[] Sc·[]
+18:26:04.130853 db@janitor F·2 G·0
+18:26:04.130875 db@open done T·1.777119ms
+=============== Dec 14, 2023 (IST) ===============
+18:32:16.926557 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:32:16.926651 version@stat F·[] S·0B[] Sc·[]
+18:32:16.926663 db@open opening
+18:32:16.926693 journal@recovery F·1
+18:32:16.926959 journal@recovery recovering @1
+18:32:16.928271 version@stat F·[] S·0B[] Sc·[]
+18:32:16.933413 db@janitor F·2 G·0
+18:32:16.933437 db@open done T·6.769868ms

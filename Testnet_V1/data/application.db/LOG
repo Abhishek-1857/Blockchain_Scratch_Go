@@ -1,0 +1,20 @@
+=============== Dec 14, 2023 (IST) ===============
+18:26:04.069243 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:26:04.082690 db@open opening
+18:26:04.082880 version@stat F·[] S·0B[] Sc·[]
+18:26:04.084001 db@janitor F·2 G·0
+18:26:04.084021 db@open done T·1.318054ms
+18:26:04.134880 db@close closing
+18:26:04.134954 db@close done T·67.9µs
+=============== Dec 14, 2023 (IST) ===============
+18:32:16.866957 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:32:16.867068 version@stat F·[] S·0B[] Sc·[]
+18:32:16.867078 db@open opening
+18:32:16.867098 journal@recovery F·1
+18:32:16.867309 journal@recovery recovering @1
+18:32:16.871354 memdb@flush created L0@2 N·23 S·527B "s/k..ion,v4":"s/k..ion,v22"
+18:32:16.871510 version@stat F·[1] S·527B[527B] Sc·[0.25]
+18:32:16.876400 db@janitor F·3 G·0
+18:32:16.876411 db@open done T·9.328397ms
+18:32:16.936110 db@close closing
+18:32:16.936207 db@close done T·83.975µs
